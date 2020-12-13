@@ -1,0 +1,16 @@
+{
+  "name": "mqtt-aedes-with-websocket",
+  "version": "1.0.0",
+  "description": "Mqtt aedes with websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Aldan",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.44.1",
+    "mqtt": "^4.2.6",
+    "websocket-stream": "^5.5.2"
+  }
+}
